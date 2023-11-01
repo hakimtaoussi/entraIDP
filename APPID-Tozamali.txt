@@ -1,0 +1,4 @@
+"AadClientId": "0aeff7a9-a245-4818-afea-5f241f239f78",
+"AadSecret": "0f1fc775-535a-4ec9-bda7-a6861af601ad",
+"AadTenantDomain": "monlab.onmicrosoft.com",
+"AadTenantId": "0f1fc775-535a-4ec9-bda7-a6861af601ad",
